@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79602039011",
+    "project_id": "quiz-e6494",
+    "storage_bucket": "quiz-e6494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79602039011:android:c3fffa96b20bf5ace8edd6",
+        "android_client_info": {
+          "package_name": "com.example.baothuc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5yRQlTY0CpglnbsS35ZOzUfbLQdo1GzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
